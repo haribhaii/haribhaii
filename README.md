@@ -9,16 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hariharan-A">
+  <a href="https://github.com/haribhaii">
     <img src="https://img.shields.io/github/followers/Hariharan-A?label=Followers&style=for-the-badge">
   </a>
-  <a href="https://github.com/Hariharan-A?tab=repositories">
+  <a href="https://github.com/haribhaii/Hardware-Projects">
     <img src="https://img.shields.io/badge/View%20Projects-000000?style=for-the-badge&logo=github">
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:hariharan519945@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/hariharan-a-6276b9242">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
   </a>
 </p>
