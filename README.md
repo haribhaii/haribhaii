@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hariharan-A&label=PROFILE%20TRAFFIC&color=FFD700&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Hariharan-A&label=PROFILE%20TRAFFIC&color=006350&style=flat" />
 </p>
 
 ---
