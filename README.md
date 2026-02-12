@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 SYSTEM PROFILE
+##  SYSTEM PROFILE
 
 ```yaml
 Engineer: Hariharan A
