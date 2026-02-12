@@ -6,7 +6,7 @@
 <h3 align="center">Embedded R&D • PCB Design • Hardware Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineer;Hardware-First+Embedded+Developer;PCB+Design+Specialist+(KiCad);Autonomous+Systems+%7C+IoT+%7C+GNSS;I+Build+Things+That+Survive+Reality" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=900&color=FFD700&center=true&vCenter=true&width=900&lines=Electrical+%26+Electronics+Engineering+Student;Hardware-First+Embedded+Developer;PCB+Design+Specialist+(KiCad);Autonomous+Systems+%7C+IoT+%7C+GNSS;I+Build+Things+That+Survive+Reality" />
 </p>
 
 ---
@@ -27,12 +27,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hariharan-A&label=PROFILE%20TRAFFIC&color=00ffd1&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Hariharan-A&label=PROFILE%20TRAFFIC&color=FFD700&style=flat" />
 </p>
 
 ---
 
-##  SYSTEM PROFILE
+## 🧑‍💻 SYSTEM PROFILE
 
 ```yaml
 Engineer: Hariharan A
