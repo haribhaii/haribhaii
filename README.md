@@ -2,7 +2,7 @@
 <!--        HARIHARAN A | GITHUB PROFILE README        -->
 <!-- ================================================= -->
 
-<h1 align="center">⚡ Hariharan A</h1>
+<h1 align="center">⚡ Hariharan A 🤓</h1>
 <h3 align="center">Embedded R&D • PCB Design • Hardware Systems</h3>
 
 <p align="center">
